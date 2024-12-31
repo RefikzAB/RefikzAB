@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Refik, im a **Senior** at the University of Washington
+- 👋 Hi, I’m Refik, im a **new grad** from the University of Washington
 - 👀 I’m interested in Product Management, Data Analytics internships for summer 2024 
 - 🌱 I’m currently learning AWS Cloud Infrastructure and Cloud Computing concepts 
 - 📫 How to reach me refik17@uw.edu
